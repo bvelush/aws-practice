@@ -1,3 +1,5 @@
+# https://medium.com/@vanyamyshkin/deploy-python-fastapi-for-free-on-aws-ec2-050b46744366
+
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
